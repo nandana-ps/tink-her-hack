@@ -11,66 +11,50 @@ GENLINK 🎯
   
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://trailblazersz.netlify.app/
 
 ### Project Description
-[2-3 lines about what your project does]
+This project is about a platform which intends to connect the elder citizens of the country to the youth , keeping the idea of time bank . 
+A young person can take care of a senior citizen and for that , this young person will receive time into his time bank , which he can use in his old age.
+
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+Elder citizens face loneliness,lack of care and difficulty in managing chores.
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+Youth help them in doing hospital visits,household chores etc while they get points for the time they spend,which they can use when they get old.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
+-HTML
+-CSS
+-JAVASCRIPT
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+https://drive.google.com/drive/folders/1ZoqnD-GbJ0vR7Cc4CemDVDTh9cbOdunq
+*Home Page*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+https://drive.google.com/drive/folders/1FZxHdU6HdaCHd-mMqkdW_ugw3ugW9VgZ
+*Registration Window*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+https://drive.google.com/drive/folders/1JvxsiAzn5z4NsO_0_0gSrvi43ShAQV6c
+*Form for asking age*
 
+https://drive.google.com/drive/folders/10t5wzGJ6y63RoHVSEM8DkkfdmhkVadoX
+*Since 23 is less than 55,the form takes to a registration form for the youth*
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+https://drive.google.com/drive/folders/1-Gc6AuR_CGwc5o8Qra-8YcOsyIWuT3kM
 
-For Hardware:
+*Based on the services that youth does,their virtual time gets added.
+How many points to be added for each work is already defined by the developer.
+They can use this time when they become elder citizens.
+*
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
-![Team](Add photo of your team here)
+https://drive.google.com/drive/folders/1-5z853rJNCUldvlR1NqCzqRrUVCg9hah
 
 
 ![Components](Add photo of your components here)
@@ -84,16 +68,16 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/drive/folders/1Tq7t4SE9EZ7MUvTpdlvHhF8QX-BxCgFK
+This video demonstrates how a user can access the GENLINK webpage from a web browser.
+It also shows the registration process.
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Nandana P S: Age Registration Form development,youth,elderly form development
+- Supriya Nair A: home page developement,javascript code
+                  
+  
 
 ---
 Made with ❤️ at TinkerHub
