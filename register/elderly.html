@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Assistance Request Form</title>
+  <link rel="stylesheet" href="elderly.css">
+</head>
+<body>
+  <div class="container">
+    <h2>Assistance Request Form</h2>
+
+    <label for="name">Full Name:</label>
+    <input type="text" id="name" name="name" required>
+
+    <label for="address">Address:</label>
+    <textarea id="address" name="address" rows="4" required></textarea>
+
+    <label for="assistance">Assistance Required:</label>
+    <div>
+      <input type="checkbox" id="householdChores" name="assistance[]" value="householdChores">
+      <label for="householdChores">Household Chores</label><br>
+
+      <input type="checkbox" id="hospitalVisits" name="assistance[]" value="hospitalVisits">
+      <label for="hospitalVisits">Hospital Visits</label>
+    </div>
+
+    <button type="button" onclick="submitRequest()">Submit Request</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
